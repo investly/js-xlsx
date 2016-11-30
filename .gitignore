@@ -19,3 +19,4 @@ tmp
 *.htm
 *.html
 *.sheetjs
+jspm_packages/
